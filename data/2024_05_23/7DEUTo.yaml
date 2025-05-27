@@ -86,7 +86,7 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"textvless.kouniqiliao.sbs","type":"vless","server":"textvless.kouniqiliao.sbs","port":443,"uuid":"170cf633-69d6-49dd-99f5-68d448debd07","tls":true,"servername":"textvless.kouniqiliao.sbs","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"textvless.kouniqiliao.sbs"}},"client-fingerprint":"randomized"}
+  - {"name":"http://textvless.kouniqiliao20250527.top","type":"vless","server":"http://textvless.kouniqiliao20250527.top","port":443,"uuid":"170cf633-69d6-49dd-99f5-68d448debd07","tls":true,"servername":"http://textvless.kouniqiliao20250527.top","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"http://textvless.kouniqiliao20250527.top"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
